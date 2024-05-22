@@ -1,4 +1,4 @@
-
+live Dashboard link:-
 https://app.powerbi.com/groups/f2fdde69-451e-442f-9c4d-8757dabf8835/reports/9093a8ea-bcad-47c9-aa90-3b8f786c35ab/ReportSection0e765c0061580b067c73?experience=power-bi
 
 AtliQ Hardware, a fast-growing company specializing in computers and accessories, is making significant strides towards enhancing its decision-making processes by leveraging Power BI for data analytics. This initiative is designed to provide deep insights across various departments, including finance, sales, marketing, and supply chain management.
@@ -42,7 +42,6 @@ Project Outcome:
 This initiative is expected to significantly enhance AtliQ Hardware's operational efficiency and market responsiveness. The detailed Power BI reports will empower stakeholders with valuable insights, facilitating better-informed decisions across all facets of the business. This move represents a pivotal step towards sustaining growth and achieving long-term success in a competitive industry.
 
 Dashboard Overview:
-
-- Home Page: The central hub of the dashboard, providing an intuitive and interactive interface for users to navigate through various reports and visualizations. 
+Home Page: The central hub of the dashboard, providing an intuitive and interactive interface for users to navigate through various reports and visualizations. 
 
 This project not only showcases the potential of Power BI as a powerful tool for business intelligence but also emphasizes the importance of a methodical approach to data analytics for achieving corporate objectives.
