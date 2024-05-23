@@ -3,9 +3,6 @@ https://app.powerbi.com/groups/f2fdde69-451e-442f-9c4d-8757dabf8835/reports/9093
 
 AtliQ Hardware, a fast-growing company specializing in computers and accessories, is making significant strides towards enhancing its decision-making processes by leveraging Power BI for data analytics. This initiative is designed to provide deep insights across various departments, including finance, sales, marketing, and supply chain management.
 
-Contributor:
-Srinath led this project by following the Codebasics Power BI Course, employing a variety of tools and techniques to achieve the desired outcomes.
-
 Tech Stack Utilized:
 
 - SQL
